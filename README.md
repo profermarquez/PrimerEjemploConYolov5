@@ -1,12 +1,12 @@
-# PrimerEjemploConYolov5
+## PrimerEjemploConYolov5
 
-## requeriments
+# requeriments
 
-# pip install seaborn
-#pip install Pillow
-# pip install pandas
-# pip install matplotlib
-# pip install torchvision
-# pip install PyYAML
-# pip install opencv-python
-# pip install requests   
+ pip install seaborn
+pip install Pillow
+ pip install pandas
+ pip install matplotlib
+ pip install torchvision
+ pip install PyYAML
+ pip install opencv-python
+ pip install requests   
